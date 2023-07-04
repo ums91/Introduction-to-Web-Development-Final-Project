@@ -1,0 +1,30 @@
+body{
+    border:1px solid black;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #67a4cc;
+    margin-bottom: 4%;
+    text-align: center;
+    }
+    .sub {
+
+        font-size: 125%;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .sub1{
+        font-weight: bolder;
+    }
+    .sub2{
+
+        padding: 5% 15% 7%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .sub3
+    {
+        font-weight: bolder;
+    }
+.sub4{
+
+    font-weight: bolder
+    margin: 5% 3% 5% 0;
+}
